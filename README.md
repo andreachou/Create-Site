@@ -2,6 +2,6 @@
 
 ## Coding Dojo Course Discussion
 
-Try to revise the code to create a webpage like below:
+Try to revise the code (https://codepen.io/coddojrponce/pen/zYPVQgG) to create a webpage like below:
 
-！[refernce](./reference.png)
+！[reference](./reference.png)
